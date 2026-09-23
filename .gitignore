@@ -1,0 +1,34 @@
+# --- Artefacts de compilation MPLAB X ---
+build/
+dist/
+debug/
+*.o
+*.d
+*.p1
+*.pre
+*.sdb
+*.cof
+*.elf
+*.lst
+*.sym
+*.obj
+
+# --- Config locale MPLAB X (machine-dépendante) ---
+nbproject/private/
+nbproject/Makefile-local-*.mk
+nbproject/Makefile-genesis.properties
+funclist
+*.mk.bak
+
+# --- Archives et code éditeur (Microchip Explorer 8 demo labs) ---
+*.zip
+*.7z
+Explorer8_Labs_v2/
+PIC16F1719_Exp8_v345.X/
+MiniProjet.X/
+
+# --- Divers ---
+*.pdf
+Thumbs.db
+.DS_Store
+queuelogs/
