@@ -75,4 +75,4 @@ MicroProjet.X/
 Les deux types de projets se compilent sans dépendance externe : le mini-projet embarque
 ses pilotes MCC et son driver LCD, les TP assembleur n'utilisent que `xc.inc`.
 
-[`video de demonstration`](https://drive.google.com/file/d/1is7u_tyBi3eYHL9u3ygj6jrT_R-5J5HB/view)
+[`video de demonstration`](https://drive.google.com/file/d/1is7u_tyBi3eYHL9u3ygj6jrT_R-5J5HB/viewgit)
